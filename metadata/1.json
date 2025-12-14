@@ -1,0 +1,9 @@
+{
+  "name": "TBP-AI Silver Key",
+  "description": "TBP-AI Genesis Access. Silver tier. Limited AI access.",
+  "image": "https://quantumpepe.github.io/TBP-NFTs2/NFT-Silber.png",
+  "attributes": [
+    { "trait_type": "Tier", "value": "Silver" },
+    { "trait_type": "Access", "value": "Limited AI Access" }
+  ]
+}
